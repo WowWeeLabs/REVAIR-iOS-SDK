@@ -1,0 +1,6 @@
+framework module WowWeeREVAirSDK {
+  umbrella header "WowWeeREVAirSDK.h"
+
+  export *
+  module * { export * }
+}
